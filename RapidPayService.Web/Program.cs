@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 using RapidPayService.Web;
 
-namespace RapidPayService
+namespace RapidPayService.Web
 {
     public class Program
     {
